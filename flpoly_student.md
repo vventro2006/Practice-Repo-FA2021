@@ -22,6 +22,13 @@ I am _passionate about_:
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
+| **Prefix** | **Number** | _Name_                                         | Credits |
+|------------|------------|------------------------------------------------|---------|
+|   **COP**  |  **2034**  |   _Introduction to Programming using Python_   |    3    |
+|   **COP**  |  **2072**  |   _Introduction to Data Science_               |    3    |
+|   **CTS**  |  **2375**  |   _Cloud Infrastructure and Services_          |    3    |
+|   **MAC**  |  **2311**  |   _Analytic Geometry and Calculus 1_           |    4    |
 ***
 
 > Last modified: 2021/08/31
+
